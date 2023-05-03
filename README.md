@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **various web technologies.**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available at my Github profile
 
 - 📫 How to reach me **eemir.akyol@hotmail.com**
 
